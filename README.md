@@ -1,5 +1,9 @@
-# Curseforge Mirror Template
+# TomCat's Tours ( now includes Radiant Echoes, Mists of Pandaria MoP remix collections tracker and XP helper ) Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of TomCat's TomCat's Tours ( now includes Radiant Echoes, Mists of Pandaria MoP remix collections tracker and XP helper )
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/tomcats)
+
+----
+
+To open a ticket related to this repository, please do so on [this repository](https://github.com/curseforge-mirror/.github)
